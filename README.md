@@ -16,3 +16,11 @@ This project aims to analyze and visualize COVID-19 data to understand trends, p
 - Seaborn
 - Plotly
 - Dash (optional for interactive dashboards)
+
+## Setup Instructions
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/rainaf16/COVID-19-Data-Analysis.git
+   cd COVID-19-Data-Analysis
